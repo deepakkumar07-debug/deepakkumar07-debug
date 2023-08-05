@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there I'm Deepak Kumar👋
 
-<!--
-**deepakkumar07-debug/deepakkumar07-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a strong foundation in web development and cloud technologies. My expertise spans Node.js, Angular, Django, Django Rest Framework, MySQL, MongoDB, and more. I have an unending curiosity for exploring new technologies, and I'm always engaged in research and development projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work as a Software Engineer at [Star Systems](https://starsystems.in/), where I've crafted efficient database schemas for multiple projects, including web and mobile applications. Notably, I've also designed and implemented a microservice app to optimize performance and user experience within our **Digilabs** application.
+
+This microservice, centered around the recording feature, is powered by Node.js and communicates with a dedicated MySQL instance. The seamless integration of this microservice into our core app, which is based on Angular and Django, has significantly improved performance and elevated the overall user experience.
+
+- 🔭 I’m currently working on  building a **Streaming Server** using Node.js and Kubernetes (k8s)
+- 🌱 Always learning: Exploring advanced containerization with Docker and orchestration using Kubernetes.
+- 🌱 I’m currently learning Microservices Architecture to enhance my knowledge
+- 👯 Open to collaborations: I'm enthusiastic about joining hands on exciting projects.
+- 💬 Ask me about Anything related to web development, cloud technologies, and database management.
+- ⚡ Fun fact:  My favorite error message is "There are only 10 types of people in the world: those who understand binary and those who don't."
+
+### Skills and Tools
+
+- **Web Development**: Node.js, Angular, Django, Django Rest Framework
+- **Databases**: MySQL, MongoDB
+- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Azure, IBM Cloud
+- **Containers**: Docker
+- **Orchestration**: Kubernetes
+- **Project Management**: Git, GitHub
+- **Languages**: JavaScript, Python
+
+### Get in Touch
+
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/deepak-kumar-s-abb963136/) to explore potential collaborations and discuss exciting opportunities.
+    
+
+Let's collaborate and create amazing projects together!
