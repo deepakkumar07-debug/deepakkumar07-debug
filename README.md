@@ -3,7 +3,7 @@
 I'm a passionate software engineer with a strong foundation in web development and cloud technologies. My expertise spans Node.js, Angular, Django, Django Rest Framework, MySQL, MongoDB, and more. I have an unending curiosity for exploring new technologies, and I'm always engaged in research and development projects.
 
 
-Currently, I work as a Software Engineer at [Star Systems](https://starsystems.in/), where I've crafted efficient database schemas for multiple projects, including web and mobile applications. Notably, I've also designed and implemented a microservice app to optimize performance and user experience within our **Digilabs** application.
+Currently, I work as a Software Engineer, where I've crafted efficient database schemas for multiple projects, including web and mobile applications. Notably, I've also designed and implemented a microservice app to optimize performance and user experience within our **Digilabs** application.
 
 - 🔭 I’m currently working on  building a **Streaming Server** using Node.js and Kubernetes (k8s)
 - 🌱 Always learning: Exploring advanced containerization with Docker and orchestration using Kubernetes.
