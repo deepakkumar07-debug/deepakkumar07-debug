@@ -28,3 +28,22 @@ Currently, I work as a Software Engineer, where I've crafted efficient database 
     
 
 Let's collaborate and create amazing projects together!
+
+---
+
+----
+![](https://komarev.com/ghpvc/?username=deepakkumar07-debug&label=PROFILE+VIEWS)
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=deepakkumar07-debug&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app?username=deepakkumar07-debug&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakkumar07-debug&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+</div>
