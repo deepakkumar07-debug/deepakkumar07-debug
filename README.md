@@ -29,8 +29,6 @@ Currently, I work as a Software Engineer, where I've crafted efficient database 
 
 Let's collaborate and create amazing projects together!
 
----
-
 ----
 ![](https://komarev.com/ghpvc/?username=deepakkumar07-debug&label=PROFILE+VIEWS)
 
